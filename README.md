@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+#[From Code to Cure: Engineering Genomics](https://www.wired.com/insights/2013/06/from-code-to-cure-engineering-genomics/)<br/>
+This is an article about using computer science to deliver personalized diagnosis and treatment on a genomic level. The author mentioned Vinod Khosla, who said that computer scientists, and not biologists, will be the ones who ultimately disrupt the way medicine is practiced. I found this quote very interesting.
